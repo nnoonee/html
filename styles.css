@@ -9,12 +9,12 @@ a:visited {
   text-decoration: none;
 }
 a:hover {
-  color: blue;
+  color: red;
   background-color: transparent;
   text-decoration: underline;
 }
 a:active {
-  color: yellow;
+  color: blue;
   background-color: transparent;
   text-decoration: underline;
 }
